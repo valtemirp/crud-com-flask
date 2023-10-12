@@ -6,7 +6,7 @@ def get_location_from_ip(ip_address):
     # Abra o banco de dados (substitua 'path_to_database' pelo caminho real do arquivo baixado)
     with geoip2.database.Reader('bd_location\\GeoLite2-City.mmdb') as reader:
         try:
-            response = reader.city('187.110.234.124')
+            response = reader.city(ip_address)
             city = response.city.name if response.city.name else "Unknown"
             region = response.subdivisions.most_specific.name if response.subdivisions.most_specific.name else "Unknown"
             country = response.country.name if response.country.name else "Unknown"
