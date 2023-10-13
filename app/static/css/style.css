@@ -1,0 +1,78 @@
+/* Estilizar os botões de ação */
+.btn-action {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+
+
+/* Alinhar o texto do botão "Buscar" à esquerda em dispositivos móveis */
+@media (max-width: 767px) {
+    button[type="submit"] {
+        text-align: left;
+        padding-left: 10px;
+        /* Ajuste o espaçamento à esquerda conforme necessário */
+    }
+}
+
+/* Alinhar o botão "Buscar" abaixo do botão "Adicionar" em dispositivos móveis */
+@media (max-width: 767px) {
+    .text-md-right {
+        text-align: left !important;
+    }
+
+    .text-md-right .btn-primary {
+        margin-top: 10px;
+    }
+}
+
+/* Estilo para tornar os botões de editar e excluir lado a lado em dispositivos móveis e computadores */
+@media (max-width: 767px) {
+    .d-flex .form-inline {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .mr-2 {
+        margin-right: 10px;
+        /* Espaçamento entre os botões */
+    }
+}
+
+.dataTables_wrapper .dataTables_filter {
+    text-align: left !important;
+}
+
+#searchContainer input[type="search"] {
+    width: 300px;
+    /* Ajuste esse valor conforme desejar */
+    height: 35px;
+}
+
+/* Estilização geral para todos os botões de paginação */
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 1px 1px;
+    margin-left: 1px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    color: #333;
+    background-color: #f7f7f7;
+    border-radius: 4px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+
+
+.row {
+    overflow-x: hidden;
+}
+
+@media (max-width: 767px) {
+    .mobile-optimized-btn {
+        padding: 0.1rem 0.3rem !important;
+    }
+    .mobile-optimized-icon {
+        font-size: 0.8rem !important;
+    }
+}

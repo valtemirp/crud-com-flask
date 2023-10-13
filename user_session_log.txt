@@ -1,0 +1,2471 @@
+
+    2023-10-12 17:38:32
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:38:35
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:38:47
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGV4Y2x1XHUwMGVkZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShZVw.ubgejmR8PpppGVv928_4SZaXRYM')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:39:21
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiNzkifQ.ZShZeA.cFengvpm7eNBKPDrHnaOBpR5twg')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:39:31
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGVkaXRhZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShZgw.qNSZOUlItI4oflGs4gPp4YlkJuQ')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:43:30
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:44:41
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGV4Y2x1XHUwMGVkZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShauQ.jneJqPEEs-9YYjtZJV-px9ngCKo')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:44:54
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:48:46
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:49:03
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGV4Y2x1XHUwMGVkZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShbvw.ndJlkNyrMm03baBNYWRaXF0kGbU')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:49:17
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGV4Y2x1XHUwMGVkZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShbzQ.iB5aq9BEwgEAixPN9CHsZMKb8-M')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:50:18
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGFkaWNpb25hZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShcCg.LtFjP91_M8InzUpFeK0VMdyOfxE')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:51:12
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiMTIxIn0.ZShcQA._eUZB1IAzEbKG_eomB8gNXXsDpw')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:51:40
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:51:48
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:52:05
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiMTIxIn0.ZShcdQ.U2pLlxdl8Axus7KWUvtIoTxvOqw')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:52:09
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGVkaXRhZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShceQ.oU-L_OeaPWUcC89s53sveLJvRck')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:52:52
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:53:11
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiMTIxIn0.ZShctw.GX1t7TcDFdkH0wObvW7Qb6goTuw')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:55:52
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiMTIxIn0.ZShctw.GX1t7TcDFdkH0wObvW7Qb6goTuw')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:57:59
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiMTIxIn0.ZShctw.GX1t7TcDFdkH0wObvW7Qb6goTuw')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:58:04
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGVkaXRhZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShd3A.ZU3EHp_9EgguCbI6tFmigfXVcDc')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 17:58:06
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:00:01
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:00:32
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:00:58
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:01:40
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:02:11
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:02:13
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiODEifQ.ZShe1Q.EwwDgdFaYcJqZ4cRXaa-IrEK5hI')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:02:18
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGVkaXRhZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShe2g.VBAucEbYQNaQMcwoI97B8y2kjtQ')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:02:21
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:03:13
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:03:29
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:04:46
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:04:57
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:05:06
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:06:52
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:09:15
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:09:23
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:09:31
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:09:39
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:12:05
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:12:15
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:13:00
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:14:19
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:15:12
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:15:21
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:15:30
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:16:22
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:16:25
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGV4Y2x1XHUwMGVkZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShiKQ.yzDH0UDyRJ-bwMEQk9J-mm3RNa8')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:18:44
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:20:23
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:21:12
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:21:22
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:21:38
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:23:05
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:23:09
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:23:38
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:23:43
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:24:50
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:27:43
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:29:18
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:29:27
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:02
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:05
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:08
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:20
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:31
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGV4Y2x1XHUwMGVkZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShl7w.8h1OMfzmVdT3FxrSHJ8F5VhRSBs')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:33
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiODAifQ.ZShl8Q.2PjxDSpkW9_6Zdbj-7W1iM8ch9c')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:38
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGVkaXRhZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShl9g.tIq0TjBJSXl4QCR-m2Jo-4b8coA')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:42
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:32:56
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:33:09
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:33:17
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJlZGl0aW5nX2lkIjoiODAifQ.ZShmHQ.15AY0Yg-0ZBfMck2Y7SFmp-alGM')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:33:22
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGVkaXRhZG8gY29tIHN1Y2Vzc28hIl19XX0.ZShmIQ.HAOh-DjM9B0zzBv8TURPEokHayI')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:34:33
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:34:41
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:43:05
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:59:54
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 18:59:57
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '1697147997583')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:00:55
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:06:20
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:15:58
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:19:15
+    User Agent: Tawktobot-AIAssistant/1.0
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: None
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:19:16
+    User Agent: Tawktobot-AIAssistant/1.0
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: None
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:19:17
+    User Agent: got (https://github.com/sindresorhus/got)
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: None
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:19:17
+    User Agent: Tawktobot-AIAssistant/1.0
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: en-US
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:21:40
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:23:52
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:23:58
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:26:00
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:30:41
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '1697149840891')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:31:39
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:34:33
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:37:53
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:38:01
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:41:59
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:44:50
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:44:54
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:45:06
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', '5PiG-wBRXOzMFmHrFHGrG'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmytwGhsvEuh1adEM05llqFKqvnFUTH2RyzOL51DXdQQX8AQzzUKbj1Etl7JscK6Xqjh7sjJPwblMq4Hgzivu8zzaZMxBjSkz7z2fO9cwObw3k53%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697149417810%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:45:16
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:46:38
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:47:03
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:48:12
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:48:20
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:48:30
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:50:51
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:51:27
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:51:58
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:53:30
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:55:21
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 19:55:36
+    User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'sbeJhih8vEcFObqYEXS15'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:10:43
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', '5PiG-wBRXOzMFmHrFHGrG'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmytwGhsvEuh1adEM05llqFKqvnFUTH2RyzOL51DXdQQX8AQzzUKbj1Etl7JscK6Xqjh7sjJPwblMq4Hgzivu8zzaZMxBjSkz7z2fO9cwObw3k53%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697150707646%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:10:55
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:11:59
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', 'dac2-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'Yu07Bvsu5ba06OD6F5afR'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:13:07
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:15:55
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:29:32
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:47:55
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:48:03
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'hjAMmZiw7RRMKeQoAgrrl'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:52:17
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '1697154736687')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:52:28
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGFkaWNpb25hZG8gY29tIHN1Y2Vzc28hIl19XX0.ZSiGuw.nTdIRnxNa_MJGoThCMDNOptFShs')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:52:56
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGV4Y2x1XHUwMGVkZG8gY29tIHN1Y2Vzc28hIl19XX0.ZSiG2A.eNy_MoTvHK4CtlS2XJBTwaSU_rA')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:53:37
+    User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:54:47
+    User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:55:14
+    User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:55:28
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:58:01
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 20:58:11
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0'), ('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGFkaWNpb25hZG8gY29tIHN1Y2Vzc28hIl19XX0.ZSiIEw.oacSyIcZmghjqD1jKaJI-pklvTo')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-12 21:00:58
+    User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+    Host: 217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app
+    Referer: https://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8
+    Full URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Base URL: http://217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('abuse_interstitial', '217b-2804-29b8-50c9-7905-5a26-6a74-49c2-2397.ngrok-free.app'), ('twk_idm_key', 'FUSTU31_KDCfDTb3gvmrc'), ('TawkConnectionTime', '0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    

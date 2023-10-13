@@ -13,19 +13,35 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-// Inicialize a DataTable com as opções desejadas
-$(document).ready(function () {
-    $('.dataTable').DataTable({
-        "ordering": true,  // Ativar ordenação nas colunas
-        "lengthChange": false,  // Desativar opção de alterar o número de registros por página
-        "pageLength": 10,  // Definir o número de registros por página
-        "info": false,  // Ocultar informações de registros
-        "language": {
-            "paginate": {
-                "previous": "Anterior",
-                "next": "Próximo"
-            },
-            "search": "Buscar:"
-        }
-    });
+document.querySelector('#titulo').addEventListener('input', function(e) {
+    const value = e.target.value;
+    const errorMessage = document.querySelector('#tituloError');
+
+    if (value.length > 100) {
+        errorMessage.textContent = 'O título não deve exceder 100 caracteres!';
+    } else {
+        errorMessage.textContent = '';
+    }
+});
+
+document.querySelector('#ano').addEventListener('input', function(e) {
+    const value = e.target.value;
+    const errorMessage = document.querySelector('#anoError');
+
+    if (value.length !== 4 || isNaN(value)) {
+        errorMessage.textContent = 'Digite um ano válido com 4 dígitos.';
+    } else {
+        errorMessage.textContent = '';
+    }
+});
+
+document.querySelector('#autor').addEventListener('input', function(e) {
+    const value = e.target.value;
+    const errorMessage = document.querySelector('#autorError');
+
+    if (value.length > 100) {
+        errorMessage.textContent = 'O nome do autor não deve exceder 100 caracteres!';
+    } else {
+        errorMessage.textContent = '';
+    }
 });

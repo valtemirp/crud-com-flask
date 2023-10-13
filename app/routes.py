@@ -1,12 +1,25 @@
 from app import app
-from flask import render_template, request, redirect, url_for, flash, get_flashed_messages, session, request
-import pyodbc
+from flask import render_template, request, redirect, url_for, flash, get_flashed_messages, session, request, Response
+import pyodbc,  bleach
+
 from datetime import datetime
 from app import log
 
 
+@app.after_request
+def add_ngrok_header(response):
+    response.headers["ngrok-skip-browser-warning"] = "1"
+    return response
+
 @app.route('/')
 def mostrar():
+    # Salvando session de usuario em txt(bonus)
+    log_message = log.collect_request_data()
+    log.log_request_data(log_message)
+    response = Response("Hello, World!")
+    response.headers["ngrok-skip-browser-warning"] = "1"
+    editing_id = request.args.get('editing_id')
+    
     connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
     cursor = connection.cursor()
     cursor.execute('SELECT * FROM livro')
@@ -14,30 +27,43 @@ def mostrar():
     cursor.close()
     connection.close()
 
+    # Encontre o livro que está sendo editado, se houver algum
+    editing_book = next((book for book in rows if str(book[3]) == editing_id), None)
+
     # Calcule o número total de páginas com base na quantidade de livros e itens por página
     total_books = len(rows)
     items_per_page = 10
     total_pages = (total_books + items_per_page - 1) // items_per_page
 
-    return render_template('index.html', books=rows, total_pages=total_pages)
-
+    return render_template('index.html', books=rows, total_pages=total_pages, editing_book=editing_book)
 
 @app.route('/cadastrar', methods=['GET', 'POST'])
 def cadastrar():
     if request.method == 'POST':
+        MAX_LENGTH = 255  # ou qualquer outro valor que você desejar
+
+        # Pegando dados do formulário e sanitizando
+        titulo = bleach.clean(request.form.get('titulo'))
+        ano = bleach.clean(request.form.get('ano'))
+        autor = bleach.clean(request.form.get('autor'))
+
+        if len(titulo) > MAX_LENGTH or len(autor) > MAX_LENGTH:
+            flash('Os campos não podem exceder 255 caracteres!', 'danger')
+            return render_template('cadastrar.html')
+
+        if not (len(ano) == 4 and ano.isdigit()):
+            flash('O ano deve conter exatamente 4 dígitos!', 'danger')
+            return render_template('cadastrar.html')
+
         # Estabelecendo conexão
         connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
 
         cursor = connection.cursor()
 
-        # Pegando dados do formulário
-        titulo = request.form.get('titulo')
-        ano = request.form.get('ano')
-        autor = request.form.get('autor')
-
         # Inserindo no banco (removendo numero_registro da inserção)
         cursor.execute('INSERT INTO livro (titulo, ano_publicacao, autor) VALUES (?,?,?)', titulo, ano, autor)
         flash('Livro adicionado com sucesso!', 'success')
+
         # Commit e fechando conexão
         connection.commit()
         cursor.close()
@@ -46,7 +72,6 @@ def cadastrar():
         return redirect(url_for('mostrar'))
     else:
         return render_template('cadastrar.html')
-
 
 @app.route('/editar', methods=['POST', 'GET'])
 def editar():
@@ -68,6 +93,8 @@ def editar():
             ano = request.form.get('ano')
             autor = request.form.get('autor')
 
+            flash("Livro editado com sucesso!", "success")
+
             # Conecte-se ao banco de dados e atualize o registro
             connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
 
@@ -86,21 +113,35 @@ def editar():
     else:
         return redirect(url_for('mostrar'))
 
-
-
-@app.route('/excluir/<int:id>', methods=['GET'])
-def excluir(id):
-    connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
-
-    cursor = connection.cursor()
+@app.route('/excluir', methods=['POST'])
+def excluir():
+    action_type = request.form.get('action_type')
     
-    cursor.execute('DELETE FROM livro WHERE numero_registro = ?', id)
-    flash('Livro excluído com sucesso!', 'danger')
-    connection.commit()
-    cursor.close()
-    connection.close()
+    if action_type == "delete":
+        # Obtenha o ID do livro a ser excluído do formulário
+        id = request.form.get('id')
+
+        if id is not None:
+            try:
+                id = int(id)
+            except ValueError:
+                flash('ID inválido para exclusão.', 'danger')
+                return redirect(url_for('mostrar'))
+
+            connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
+            cursor = connection.cursor()
+
+            cursor.execute('DELETE FROM livro WHERE numero_registro = ?', id)
+            connection.commit()
+            cursor.close()
+            connection.close()
+
+            flash('Livro excluído com sucesso!', "success")
+        else:
+            flash('ID de livro não fornecido para exclusão.', "danger")
 
     return redirect(url_for('mostrar'))
+
 
 @app.route('/buscar_livros', methods=['POST'])
 def buscar_livros():
@@ -124,42 +165,4 @@ def buscar_livros():
     total_pages = (total_books + items_per_page - 1) // items_per_page
 
     return render_template('index.html', books=rows, total_pages=total_pages)
-
-@app.route('/lista_livros', methods=['GET'])
-def lista_livros():
-    # Obtenha o número da página da consulta de URL
-    page = int(request.args.get('page', 1))
-
-    # Defina o número de itens por página
-    items_per_page = 10
-
-    # Consulta o banco de dados para obter a lista de livros
-    connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
-    cursor = connection.cursor()
-
-    cursor.execute('SELECT * FROM livro')
-    all_books = cursor.fetchall()
-
-    # Calcule o índice de início e fim com base na página atual
-    start_idx = (page - 1) * items_per_page
-    end_idx = start_idx + items_per_page
-
-    # Calcule a lista de livros para a página atual
-    books = all_books[start_idx:end_idx]
-
-    # Calcule o número total de páginas
-    total_pages = (len(all_books) + items_per_page - 1) // items_per_page
-
-    # Calcule se há uma página anterior e/ou próxima
-    has_prev_page = page > 1
-    has_next_page = page < total_pages
-
-    # Calcule as páginas anterior e próxima
-    prev_page = page - 1 if has_prev_page else None
-    next_page = page + 1 if has_next_page else None
-
-    cursor.close()
-    connection.close()
-
-    return render_template('index.html', books=books, page=page, total_pages=total_pages, prev_page=prev_page, next_page=next_page, has_next_page=has_next_page)
 
