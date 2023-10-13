@@ -35,13 +35,4 @@ document.querySelector('#ano').addEventListener('input', function(e) {
     }
 });
 
-document.querySelector('#autor').addEventListener('input', function(e) {
-    const value = e.target.value;
-    const errorMessage = document.querySelector('#autorError');
 
-    if (value.length > 100) {
-        errorMessage.textContent = 'O nome do autor não deve exceder 100 caracteres!';
-    } else {
-        errorMessage.textContent = '';
-    }
-});

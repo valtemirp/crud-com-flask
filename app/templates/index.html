@@ -26,7 +26,7 @@
                 <div id="searchContainer">
                     <datalist id="booksList">
                         {% for book in books %}
-                        <option value="{{ book[0] }}"> <!-- assumindo que book[0] é o título do livro -->
+                        <option value="{{ book[1] }}"> <!-- assumindo que book[0] é o título do livro -->
                             {% endfor %}
                     </datalist>
                 </div>
@@ -61,58 +61,60 @@
                 </thead>
                 <tbody>
                     {% for book in books %}
-<tr>
-    <form action="{{ url_for('editar') }}" method="POST">
-        <input type="hidden" name="id" value="{{ book[3] }}">
+                    <tr>
+                        <form action="{{ url_for('editar') }}" method="POST">
+                            <input type="hidden" name="id" value="{{ book[0] }}">
 
-        <td>
-            {% if session['editing_id'] == book[3]|string %}
-            <input type="text" name="titulo" value="{{ book[0] }}" class="form-control">
-            {% else %}
-            {{ book[0] }}
-            {% endif %}
-        </td>
-        <td>
-            {% if session['editing_id'] == book[3]|string %}
-            <input type="text" name="autor" value="{{ book[2] }}" class="form-control">
-            {% else %}
-            {{ book[2] }}
-            {% endif %}
-        </td>
-        <td>
-            {% if session['editing_id'] == book[3]|string %}
-            <input type="text" name="ano" value="{{ book[1] }}" class="form-control">
-            {% else %}
-            {{ book[1] }}
-            {% endif %}
-        </td>
-        <td>
-            {{ book[3] }}
-        </td>
-        <td class="text-center">
-            {% if session['editing_id'] == book[3]|string %}
-            <button type="submit" class="btn btn-success btn-sm mobile-optimized-btn" name="action_type" value="save">
-                <i class="bi bi-check mobile-optimized-icon"></i>
-            </button>
-            {% else %}
-            <button type="submit" class="btn btn-warning btn-sm mobile-optimized-btn" name="action_type" value="edit">
-                <i class="bi bi-pencil-square mobile-optimized-icon"></i>
-            </button>
-            </form>
-            <!-- Fechando o formulário de edição aqui -->
-            <!-- Agora, começando um novo formulário para a ação de exclusão -->
-            <form action="{{ url_for('excluir') }}" method="POST" class="d-inline">
-                <input type="hidden" name="id" value="{{ book[3] }}">
-                <button type="submit" class="btn btn-danger btn-sm mobile-optimized-btn" name="action_type" value="delete"
-                    onclick="return confirm('Tem certeza que deseja excluir este livro?')">
-                    <i class="bi bi-trash mobile-optimized-icon"></i>
-                </button>
-            </form>
-            {% endif %}
-        </td>
-    </form>
-</tr>
-{% endfor %}
+                            <td>
+                                {% if session['editing_id'] == book[0]|string %}
+                                <input type="text" name="titulo" value="{{ book[1] }}" class="form-control">
+                                {% else %}
+                                {{ book[1] }}
+                                {% endif %}
+                            </td>
+                            <td>
+                                {% if session['editing_id'] == book[0]|string %}
+                                <input type="text" name="autor" value="{{ book[3] }}" class="form-control">
+                                {% else %}
+                                {{ book[3] }}
+                                {% endif %}
+                            </td>
+                            <td>
+                                {% if session['editing_id'] == book[0]|string %}
+                                <input type="text" name="ano" value="{{ book[2] }}" class="form-control">
+                                {% else %}
+                                {{ book[2] }}
+                                {% endif %}
+                            </td>
+                            <td>
+                                {{ book[0] }}
+                            </td>
+                            <td class="text-center">
+                                {% if session['editing_id'] == book[0]|string %}
+                                <button type="submit" class="btn btn-success btn-sm mobile-optimized-btn"
+                                    name="action_type" value="save">
+                                    <i class="bi bi-check mobile-optimized-icon"></i>
+                                </button>
+                                {% else %}
+                                <button type="submit" class="btn btn-warning btn-sm mobile-optimized-btn"
+                                    name="action_type" value="edit">
+                                    <i class="bi bi-pencil-square mobile-optimized-icon"></i>
+                                </button>
+                        </form>
+                        <!-- Fechando o formulário de edição aqui -->
+                        <!-- Agora, começando um novo formulário para a ação de exclusão -->
+                        <form action="{{ url_for('excluir') }}" method="POST" class="d-inline">
+                            <input type="hidden" name="id" value="{{ book[0] }}">
+                            <button type="submit" class="btn btn-danger btn-sm mobile-optimized-btn" name="action_type"
+                                value="delete" onclick="return confirm('Tem certeza que deseja excluir este livro?')">
+                                <i class="bi bi-trash mobile-optimized-icon"></i>
+                            </button>
+                        </form>
+                        {% endif %}
+                        </td>
+                        </form>
+                    </tr>
+                    {% endfor %}
                 </tbody>
             </table>
         </div>
@@ -144,25 +146,68 @@
             });
             $(".dataTables_filter").detach().appendTo('#searchContainer');
             $(".dataTables_filter input").attr("list", "booksList");
+
+        });
+        document.addEventListener("DOMContentLoaded", function () {
+            const chatbotIcon = document.getElementById("chatbot-icon");
+            const chatbotWindow = document.getElementById("chatbot-window");
+            const closeButton = document.getElementById("close-button");
+
+            chatbotIcon.addEventListener("click", function () {
+                chatbotWindow.style.display = "block";
+            });
+
+            closeButton.addEventListener("click", function () {
+                chatbotWindow.style.display = "none";
+            });
         });
 
 
-
-
     </script>
-    <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-    s1.async=true;
-    s1.src='https://embed.tawk.to/605d3680067c2605c0bc6028/1f1m1ppp0';
-    s1.charset='UTF-8';
-    s1.setAttribute('crossorigin','*');
-    s0.parentNode.insertBefore(s1,s0);
-    })();
-    </script>
-    <!--End of Tawk.to Script-->
+    <!-- Ícone do chatbot (oculto) -->
+    <div class="chatbot-icon chatbot-bottom-left" id="chatbot-icon">
+        <i class="bi bi-chat-dots-fill"></i>
+    </div>
+
+    <!-- Janela de chatbot (aberta) -->
+    <div class="chatbot-window" id="chatbot-window">
+        <div class="chatbot-header">
+            <img src="https://avatars.githubusercontent.com/u/117370378?v=4" alt="Foto do Operador"
+                class="profile-image">
+            <span class="profile-info">
+                <div class="profile-details">
+                    <span class="profile-name">Valtemir - Operador master</span><br>
+                    <span class="profile-status">Online</span>
+                </div>
+            </span>
+            <button class="close-button" id="close-button">×</button>
+        </div>
+        <div class="chatbot-content">
+            <p>Digite seu nome para começar:</p>
+            <div class="input-group mb-3">
+                <form>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Endereço de email</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                            placeholder="Seu email">
+                        <small id="emailHelp" class="form-text text-muted">Nunca vamos compartilhar seu email, com
+                            ninguém.</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Nome</label>
+                        <input type="name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                    </div>
+                    <div class="form-group form-check">
+                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                        <label class="form-check-label" for="exampleCheck1">Clique em mim</label>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    </div>
+
 </body>
 
 </html>

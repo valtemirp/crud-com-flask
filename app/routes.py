@@ -1,9 +1,9 @@
 from app import app
-from flask import render_template, request, redirect, url_for, flash, get_flashed_messages, session, request, Response
+from flask import render_template, request, redirect, url_for, flash, get_flashed_messages, session, request, Response, render_template_string
 import pyodbc,  bleach
-
 from datetime import datetime
 from app import log
+import brazilcep
 
 
 @app.after_request
@@ -20,7 +20,11 @@ def mostrar():
     response.headers["ngrok-skip-browser-warning"] = "1"
     editing_id = request.args.get('editing_id')
     
-    connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
+    connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};'
+                            'SERVER=02LAB108PC01\SQLDEVELOPER;'
+                            'DATABASE=sistema_biblioteca;'
+                            'UID=sa;'
+                            'PWD=sa')
     cursor = connection.cursor()
     cursor.execute('SELECT * FROM livro')
     rows = cursor.fetchall()
@@ -56,7 +60,11 @@ def cadastrar():
             return render_template('cadastrar.html')
 
         # Estabelecendo conexão
-        connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
+        connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};'
+                            'SERVER=02LAB108PC01\SQLDEVELOPER;'
+                            'DATABASE=sistema_biblioteca;'
+                            'UID=sa;'
+                            'PWD=sa')
 
         cursor = connection.cursor()
 
@@ -96,7 +104,11 @@ def editar():
             flash("Livro editado com sucesso!", "success")
 
             # Conecte-se ao banco de dados e atualize o registro
-            connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
+            connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};'
+                            'SERVER=02LAB108PC01\SQLDEVELOPER;'
+                            'DATABASE=sistema_biblioteca;'
+                            'UID=sa;'
+                            'PWD=sa')
 
             cursor = connection.cursor()
 
@@ -128,7 +140,11 @@ def excluir():
                 flash('ID inválido para exclusão.', 'danger')
                 return redirect(url_for('mostrar'))
 
-            connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
+            connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};'
+                            'SERVER=02LAB108PC01\SQLDEVELOPER;'
+                            'DATABASE=sistema_biblioteca;'
+                            'UID=sa;'
+                            'PWD=sa')
             cursor = connection.cursor()
 
             cursor.execute('DELETE FROM livro WHERE numero_registro = ?', id)
@@ -147,7 +163,11 @@ def excluir():
 def buscar_livros():
     livro = request.form.get('livro')
 
-    connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER=VALTEMIR;DATABASE=sistema_biblioteca;Trusted_Connection=yes')
+    connection = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};'
+                            'SERVER=02LAB108PC01\SQLDEVELOPER;'
+                            'DATABASE=sistema_biblioteca;'
+                            'UID=sa;'
+                            'PWD=sa')
     cursor = connection.cursor()
 
     if livro:
@@ -166,3 +186,30 @@ def buscar_livros():
 
     return render_template('index.html', books=rows, total_pages=total_pages)
 
+@app.route('/cep', methods=['GET', 'POST'])
+def cep():
+    cep_info = brazilcep.get_address_from_cep('37503-130')
+
+    # Construir a lista de informações do CEP dinamicamente
+    info_list = ""
+    for key, value in cep_info.items():
+        info_list += f"<li><strong>{key.capitalize()}:</strong> {value}</li>"
+
+    html_content = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Informações do CEP</title>
+    </head>
+    <body>
+        <h1>Informações do CEP: {cep_info.get('cep', 'N/A')}</h1>
+        <ul>
+            {info_list}
+        </ul>
+    </body>
+    </html>
+    """
+
+    return html_content

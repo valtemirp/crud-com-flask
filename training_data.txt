@@ -1,0 +1,14 @@
+
+Usuário: Olá!
+Chatbot: Olá! Como posso ajudar?
+Usuário: Como posso criar um CRUD com Flask?
+Chatbot: O CRUD é um conjunto de operações básicas para manipulação de dados: Criar (Create), Ler (Read), Atualizar (Update) e Excluir (Delete). Para criar um CRUD com Flask, siga os seguintes passos: 1. Configuração Inicial: Primeiro, instale as bibliotecas necessárias: pip install Flask Flask-SQLAlchemy 2. Configuração do Banco de Dados: Utilize a extensão Flask-SQLAlchemy e configure o banco de dados de sua preferência. 3. Modelo de Dados: Crie um modelo para sua entidade. 4. Rotas CRUD: Adicione rotas para cada operação do CRUD. 5. Templates: Utilize templates HTML para exibir dados e interagir com o usuário. 6. Execução: Execute sua aplicação. Ao seguir essas etapas, você terá um aplicativo Flask básico com funcionalidades CRUD.
+Usuário: O que é Flask?
+Chatbot: Flask é um micro framework web escrito em Python. É classificado como um micro framework porque não requer ferramentas ou bibliotecas particulares. É projetado para fazer aplicações web de forma simples e com a capacidade de escalar para aplicações complexas.
+Usuário: Como posso conectar um banco de dados ao Flask?
+Chatbot: Você pode conectar um banco de dados ao Flask usando extensões como Flask-SQLAlchemy. Primeiro, instale a extensão e configure a URI do banco de dados. Em seguida, inicialize a extensão e defina seus modelos de dados. Você pode então usar este modelo para executar operações CRUD no seu banco de dados.
+Usuário: O que é SQLAlchemy?
+Chatbot: SQLAlchemy é uma biblioteca SQL toolkit e Object-Relational Mapping (ORM) para Python. Ele permite que os desenvolvedores trabalhem com bancos de dados usando objetos Python sem ter que escrever código SQL diretamente. Ele suporta vários sistemas de banco de dados.
+
+Usuário: Quantos livros tem no site?
+Chatbot: Atualmente, há 30 livros no site.

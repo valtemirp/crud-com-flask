@@ -2469,3 +2469,2644 @@
     Country: Unknown
     -------------------------------------------
     
+    2023-10-13 10:10:38
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('session', '.eJwljsFqAzEMRH8l6JyCLK8l7_5GjyUssiw3aZsE1pteQv69hp6GNzDDe8LafrSfvcPy8YTDPgKu3rt-Ohzh3b_0UPz69nu51TucXqfjGGzez7Ds28MHXSosgEFFGBFNTEQsuWBrnk2YmJXNKQk5CgrPIcTY5qLZJqlshoGEVVp2zRrM6qzjhhLn1DTTlDS2ikzBkCV5zNXyFFOKqISVLMxtqK6P7tu_DQ-0vrV1v3_7bRQqjuoxKuUYi7PNIhOFMJkzSUk5Fc_NCF5_IltOtA.ZSk0yA.CbSLCvKtNnN7eJ1x5elJXmkpkaA')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:15:17
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('session', '.eJwljsFqAzEMRH8l6JyCLK8l7_5GjyUssiw3aZsE1pteQv69hp6GNzDDe8LafrSfvcPy8YTDPgKu3rt-Ohzh3b_0UPz69nu51TucXqfjGGzez7Ds28MHXSosgEFFGBFNTEQsuWBrnk2YmJXNKQk5CgrPIcTY5qLZJqlshoGEVVp2zRrM6qzjhhLn1DTTlDS2ikzBkCV5zNXyFFOKqISVLMxtqK6P7tu_DQ-0vrV1v3_7bRQqjuoxKuUYi7PNIhOFMJkzSUk5Fc_NCF5_IltOtA.ZSk0yA.CbSLCvKtNnN7eJ1x5elJXmkpkaA')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:17:00
+    User Agent: Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 Edg/117.0.0.0
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('session', '.eJwljstqAzEMAP_F5xxkyXo4P7NoZYmWQAu7ySnk37vQ48xhmHfb6sjzq92fxytvbfte7d6gu6oAQGioanAqVKWFCoq4RCIrJiiozN6Jau5uMXRJBHRUcS1LN-8Ra_qVQRbjcsPBTrVAsAeIcpKtsEHMBI6wMPqsdo28zjz-b-TCOI_anr-P_LmEa4InkaMR7SkxVQf2PiIFdWfjPa0C2-cPeHQ-jg.ZSlC5Q.jk7aj5SaTayLORAYGc-Wf_haF6g'), ('twk_idm_key', 'Qdeo2Lu2PBGF9en-WxgVT'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJbXov4sLYwt8NQBGJkfIpKSQrvrCMWkkrp54q4mBBPH56nGPEEfwqlSIfubnn9n5Z4xugo9gJIFurCvI4lj2dvwIPURB6V6mhLpnzfCsxc3TS%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697202920028%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:17:35
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSk7Qg.Rgjb8JuTVtnWdD-KRtSA6reEC7I')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:17:44
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203059126%7D'), ('session', '.eJwlj81KxEAQhF8lzHmR-en5y9mLz6BL6HT3uMGQyEwiwrLv7qinoj6oouquprJiu0lT4-tdDUcXxbi9S1UX9fI8LNvX26m1mHXhffjEioN803q2P-r2J3V9XC-9pUq7qfGop3S3sBpVRsYUvYaiLWhvo2EhspKL0wnBlmiyzKGgdiFw8sGxn4nF6sIRLDoQwqS9WCDklJ0uoFMJPZbZgyeYgWw2VFIIulMnWBIFwxkjg-kHprNJ_V8TuqVWy3TsH7J1MBsfo0CKBq2dvTWGKABwyJELzvF3MJiQ1OMH3zpVPw.ZSlDeA.8s4vOURXkkmBXnHJzpw3TG9ss0o')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:20:58
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlDeA.Y2OpPgpzlVIKJDksgCur7G1i2cM'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203064732%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:21:05
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203259021%7D'), ('session', '.eJwljl1qwzAQhK_i6jkPK2n1lzP0Bm0w6_0hoWkNll0KIXevSp-GGWaG7-Fmu1O_anfnt4eb9iGuH8zauzu519v3tk76w_fj_QBQkXXi9XMajVFYX9zleTmNi0371Z337dDhbuLOrpFQLQnQICCkULwoc9BmESphsOKbLtkIYs5SU46SFhYNYFIwUERlqpA0IJPUFsEQquUxa5IwMS7IoXm2mjOMNCpZ5eylURH0A34-um7_NHlY7pvN-_qhXyNYfCpFsRZPISwpeM-cESW3IkZL-QNGn6t7_gK3e1U_.ZSlEQQ.J5dE_KEZKdi6Dr8KdgaMXzaT_QY')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:21:08
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203259021%7D'), ('TawkConnectionTime', '0'), ('session', '.eJwljktuwzAMBe-idRciRVFSLmNQ_CRGgRSwnVWRu1dFlm-AeZjftMXh5yPdruPlX2nbLd3SEJPeaqbISLliA3NV9BEldyGMBsMnh-TCbL1ysTrVHHNYI5RCrtJzdSQV66PkoNyDlzasUlWapDhAozPnRYtLdGWwIc0I0gp5nX58anhNPY_Yrp9vfy4wobbm1BsI4qwIoMpExqNZyGz_wQTcl-e2X_vz_jkCSO8_YyRDyg.ZSlERA.DAHsb6XgyyOBINPqGbkp3iLM_Bo')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:21:12
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203259021%7D'), ('TawkConnectionTime', '0'), ('session', '.eJwljktqxDAQRK_iaD0LSW61JJ9hbhCGodUfxuRjsOxshrl7FLIqqh4F7-nu9kn9od0t7083HSNcP5m1d3dx1_Vn3yaV9SDZJt6-psEG2t7c7XW7jPOu_eGWYz91tFXc4ioJlZw8mI_gU8xBlDlqtdkXgmg5VG1o5GdEKQlnSY1FozfJEGkGZSo-aQQmKXX2Br4YjluVBImhAcca2AqiH-usZIUxSKUsEIb2_ey6_9vgqNx3ux_bh36PoYWUs0LJgWJsKYbAjACCNYtRy3_CELC41y9jKFMr.ZSlESA.MC0YS1Eba7aNvBsTCJsMgAPCnhQ')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:21:14
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203272917%7D'), ('session', '.eJwljl1qwzAQhK_i6jkPK2n1lzP0Bm0w6_0hoWkNll0KIXevSp-GGWaG7-Fmu1O_anfnt4eb9iGuH8zauzu519v3tk76w_fj_QBQkXXi9XMajVFYX9zleTmNi0371Z337dDhbuLOrpFQLQnQICCkULwoc9BmESphsOKbLtkIYs5SU46SFhYNYFIwUERlqpA0IJPUFsEQquUxa5IwMS7IoXm2mjOMNCpZ5eylURH0A34-um7_NHlY7pvN-_qhXyNYfCpFsRZPISwpeM-cESW3IkZL-QNGn6t7_gK3e1U_.ZSlESg.6buVatxuOaLyurfH_P5j8OF5dmg')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:27:45
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203275407%7D'), ('session', '.eJwljklqAzEURK_S0doLDV9TnyE3CMZ8_QE3SSxodWdjfPcoZFVUPQre09z0C8ddhlk_nmY5ZphxEskY5mLet5-9L8gbbf2B3Bfq38vEk_Y3c31dL_O_y7ib9dhPmW1js5qKjCVHC2o92OizYyHyUjXYguA1uyotKdqQEpeYAsdGLN4qZ_AYQAiLjeKBkEsNVsEWTfNWOUIkaEC-OtKSkp1rENRCyXHFzOCm-e0csv_bpFlp7Ho7-qc85tBczFmgZIfet-idI0oAnGpmxZb_hMGlYl6_sH5UXA.ZSlF0Q.BQ92Ly0j2kipimHJR0n06RZedTA')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:32:26
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlF0Q.TOiDZeAwbZMgI_ZadEfm58Z3GfQ'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203666599%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:32:28
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlF0Q.TOiDZeAwbZMgI_ZadEfm58Z3GfQ'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203666599%7D'), ('TawkConnectionTime', '1697203948011')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:33:10
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203949441%7D'), ('session', '.eJwljl1qwzAQhK_i6jkPK2n1lzP0Bm0w6_0hoWkNll0KIXevSp-GGWaG7-Fmu1O_anfnt4eb9iGuH8zauzu519v3tk76w_fj_QBQkXXi9XMajVFYX9zleTmNi0371Z337dDhbuLOrpFQLQnQICCkULwoc9BmESphsOKbLtkIYs5SU46SFhYNYFIwUERlqpA0IJPUFsEQquUxa5IwMS7IoXm2mjOMNCpZ5eylURH0A34-um7_NHlY7pvN-_qhXyNYfCpFsRZPISwpeM-cESW3IkZL-QNGn6t7_gK3e1U_.ZSlHFg.KHCNXjk-YAZp9a9SRJ-3djOHWy4')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:33:13
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203991959%7D'), ('session', '.eJwljktuwzAMBe-idRcSRVJSLmNQ_CRGgRSwnVWRu1dFlm-AeZjftMXh5yPdruPlX2nbLd3SEJPeKGNkwEzQirkq-IiauyBEK8Mnh-TKbJ24Gk01hxzWEKSiq_RMDqhifdQcmHvw0oYRkuJEhVE0OnNetLpEVy42pBmWtEJepx-fGl5TzyO26-fbnwvMQq059lYEYBKUosqIxqNZyGz_wVi4L89tv_bn_XMElN5_YzRDzw.ZSlHGQ.8XeYJgm6yeEFsaVeA1ze4B53SS0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:33:20
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697203994163%7D'), ('session', '.eJwljktqxDAQRK_iaD0LSW61JJ9hbhCGodUfxuRjsOxshrl7FLIqqh4F7-nu9kn9od0t7083HSNcP5m1d3dx1_Vn3yaV9SDZJt6-psEG2t7c7XW7jPOu_eGWYz91tFXc4ioJlZw8mI_gU8xBlDlqtdkXgmg5VG1o5GdEKQlnSY1FozfJEGkGZSo-aQQmKXX2Br4YjluVBImhAcca2AqiH-usZIUxSKUsEIb2_ey6_9vgqNx3ux_bh36PoYWUs0LJgWJsKYbAjACCNYtRy3_CELC41y9jKFMr.ZSlHIA.yHDlW1Zckt_99TWYIdWxl7MHyMU')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:37:49
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlHIA.DpLzw_bvUD4FTqoGKMgc2gxNskc'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204001040%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:38:13
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204271719%7D'), ('session', '.eJwljl1qwzAQhK_i6jkPK2n1lzP0Bm0w6_0hoWkNll0KIXevSp-GGWaG7-Fmu1O_anfnt4eb9iGuH8zauzu519v3tk76w_fj_QBQkXXi9XMajVFYX9zleTmNi0371Z337dDhbuLOrpFQLQnQICCkULwoc9BmESphsOKbLtkIYs5SU46SFhYNYFIwUERlqpA0IJPUFsEQquUxa5IwMS7IoXm2mjOMNCpZ5eylURH0A34-um7_NHlY7pvN-_qhXyNYfCpFsRZPISwpeM-cESW3IkZL-QNGn6t7_gK3e1U_.ZSlIRQ.ykWBfnGm63ulyM5i4VjB_ed7G9A')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:38:18
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204294629%7D'), ('session', '.eJwljl1qwzAQhK_i6jkPK2n1lzP0Bm0w6_0hoWkNll0KIXevSp-GGWaG7-Fmu1O_anfnt4eb9iGuH8zauzu519v3tk76w_fj_QBQkXXi9XMajVFYX9zleTmNi0371Z337dDhbuLOrpFQLQnQICCkULwoc9BmESphsOKbLtkIYs5SU46SFhYNYFIwUERlqpA0IJPUFsEQquUxa5IwMS7IoXm2mjOMNCpZ5eylURH0A34-um7_NHlY7pvN-_qhXyNYfCpFsRZPISwpeM-cESW3IkZL-QNGn6t7_gK3e1U_.ZSlISg.P7LxJ4_oGS5Y3E4G4cBPU7F-CQo')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:38:31
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204298731%7D'), ('session', '.eJwljl1qwzAQhK_i6jkPK2n1lzP0Bm0w6_0hoWkNll0KIXevSp-GGWaG7-Fmu1O_anfnt4eb9iGuH8zauzu519v3tk76w_fj_QBQkXXi9XMajVFYX9zleTmNi0371Z337dDhbuLOrpFQLQnQICCkULwoc9BmESphsOKbLtkIYs5SU46SFhYNYFIwUERlqpA0IJPUFsEQquUxa5IwMS7IoXm2mjOMNCpZ5eylURH0A34-um7_NHlY7pvN-_qhXyNYfCpFsRZPISwpeM-cESW3IkZL-QNGn6t7_gK3e1U_.ZSlIVw.0gXapn8-Ff5Re-nY3MudZzn10q0')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:52:11
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:52:13
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:52:13
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:56:22
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:56:49
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:59:00
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:59:00
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 10:59:00
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:02:08
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:02:08
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:03:01
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:03:09
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:04:15
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:04:16
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:04:39
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:04:58
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:04:59
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:04:59
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:05:46
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:05:46
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:06:31
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:06:31
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:06:31
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:06:50
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:06:50
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:06:50
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:09:04
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:11:45
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:11:47
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:11:48
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:11:49
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:13:35
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:16:23
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:16:24
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:17:47
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:17:47
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:17:55
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:17:56
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:17:57
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:19:12
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:19:13
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:19:14
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:19:15
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:22:05
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:23:58
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:24:00
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:24:00
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:24:00
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:24:01
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:24:01
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:24:01
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:24:01
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:24:10
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:25:54
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:25:54
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:25:55
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:25:55
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:26:52
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:26:53
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:26:54
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:28:19
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:30:07
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:51:20
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:51:21
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:51:39
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:52:00
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:52:47
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:53:01
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:53:12
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:53:23
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:53:41
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:53:59
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:55:04
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:55:14
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:55:15
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:55:15
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:55:59
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:56:00
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:56:17
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:57:54
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:58:12
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:58:47
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:59:35
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 11:59:58
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:01:37
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:01:42
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:02:20
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:03:49
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:04:15
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:04:30
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:51:21
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:52:59
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:54:57
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:55:01
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:56:27
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:56:55
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:58:07
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 12:58:35
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:01:10
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:04:36
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:05:12
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:05:28
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:05:56
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:28:03
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:28:42
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlIVw.KGeL90ewNliZv2rBZyN4bYsWyX8'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:31:33
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwljktuwzAMBe-idRcSRVJSLmNQ_CRGgRSwnVWRu1dFlm-AeZjftMXh5yPdruPlX2nbLd3SEJPeKGNkwEzQirkq-IiauyBEK8Mnh-TKbJ24Gk01hxzWEKSiq_RMDqhifdQcmHvw0oYRkuJEhVE0OnNetLpEVy42pBmWtEJepx-fGl5TzyO26-fbnwvMQq059lYEYBKUosqIxqNZyGz_wVi4L89tv_bn_XMElN5_YzRDzw.ZSlw5Q.nzQYPjRmcR2WkYNAtnvdLrdUqEk')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:31:43
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwljktqxDAQRK_iaD0LSW61JJ9hbhCGodUfxuRjsOxshrl7FLIqqh4F7-nu9kn9od0t7083HSNcP5m1d3dx1_Vn3yaV9SDZJt6-psEG2t7c7XW7jPOu_eGWYz91tFXc4ioJlZw8mI_gU8xBlDlqtdkXgmg5VG1o5GdEKQlnSY1FozfJEGkGZSo-aQQmKXX2Br4YjluVBImhAcca2AqiH-usZIUxSKUsEIb2_ey6_9vgqNx3ux_bh36PoYWUs0LJgWJsKYbAjACCNYtRy3_CELC41y9jKFMr.ZSlw7w.5dTbDWjKUCcnM_AfqhXYe6nxJeE')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:38:02
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwljl1qwzAQhK_i6jkPK2n1lzP0Bm0w6_0hoWkNll0KIXevSp-GGWaG7-Fmu1O_anfnt4eb9iGuH8zauzu519v3tk76w_fj_QBQkXXi9XMajVFYX9zleTmNi0371Z337dDhbuLOrpFQLQnQICCkULwoc9BmESphsOKbLtkIYs5SU46SFhYNYFIwUERlqpA0IJPUFsEQquUxa5IwMS7IoXm2mjOMNCpZ5eylURH0A34-um7_NHlY7pvN-_qhXyNYfCpFsRZPISwpeM-cESW3IkZL-QNGn6t7_gK3e1U_.ZSlyag.1OQFAoQXomHi3uLhlJe8TAdQdQc')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:38:07
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwljktuwzAMBe-idRcURVFSLmNQ_CRGgRSwnVWRu1dFlm-AeZjftMXh5yPdruPlX2nbLd3SEJPeKlAAElRs2VwVfUSBLoTR8vDJIVCYrVcuVqeaI4Q1QinkKh2qI6lYHwWCoAcvbVilqjRJcWSNzgyLFpfoytmGNKOcVsjr9ONTw2vqecR2_Xz7c4GZa2tOvWVBnBVzVmUi49EsZLb_YMrcl-e2X_vz_jlCSO8_YyVDyg.ZSlybw.Y2dyKb19jEasj6GeN9wH9dFaRMM')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:38:17
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwljktqxDAQRK_iaD0LSW61JJ9hbhCGodUfxuRjsOxshrl7FLIqqh4F7-nu9kn9od0t7083HSNcP5m1d3dx1_Vn3yaV9SDZJt6-psEG2t7c7XW7jPOu_eGWYz91tFXc4ioJlZw8mI_gU8xBlDlqtdkXgmg5VG1o5GdEKQlnSY1FozfJEGkGZSo-aQQmKXX2Br4YjluVBImhAcca2AqiH-usZIUxSKUsEIb2_ey6_9vgqNx3ux_bh36PoYWUs0LJgWJsKYbAjACCNYtRy3_CELC41y9jKFMr.ZSlyeQ.t3BwHjPCYREPLEJrBh2vSwUOo9Q')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:39:52
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSlyeQ.M8WVtcA_Ti0pBMSrS_HiyOOFdzk')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:40:19
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwljklqAzEURK_S0doLDV9TnyE3CMZ8_QE3SSxodWdjfPcoZFVUPQre09z0C8ddhlk_nmY5ZphxEskY5mLet5-9L8gbbf2B3Bfq38vEk_Y3c31dL_O_y7ib9dhPmW1js5qKjCVHC2o92OizYyHyUjXYguA1uyotKdqQEpeYAsdGLN4qZ_AYQAiLjeKBkEsNVsEWTfNWOUIkaEC-OtKSkp1rENRCyXHFzOCm-e0csv_bpFlp7Ho7-qc85tBczFmgZIfet-idI0oAnGpmxZb_hMGlYl6_sH5UXA.ZSly8w.AkRQoChmtV8Ybq473j_rgKV6fts')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:55:06
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSly8w.YtCjEO40BMzGbq3EOH4SksgA7aU')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:55:50
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSly8w.YtCjEO40BMzGbq3EOH4SksgA7aU')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:56:47
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSly8w.YtCjEO40BMzGbq3EOH4SksgA7aU')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 13:58:03
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSly8w.YtCjEO40BMzGbq3EOH4SksgA7aU')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 14:32:39
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 14:34:35
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/cadastrar
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSly8w.YtCjEO40BMzGbq3EOH4SksgA7aU')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-13 14:39:05
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('twk_idm_key', 'ySv6vaUr5Zlo5-2AZNQSr'), ('TawkConnectionTime', '0'), ('twk_uuid_605d3680067c2605c0bc6028', '%7B%22uuid%22%3A%221.PUmzJfcR7aKEgPtY95WUJzy3IenNxdZ96TS8wsE1uVZ8RnvYTTwpbBmrAvd0CRYvAU8Gn0wFkzhl6eItdqhwWJRlyhsfwgc2V43qVEYBgZOxQ0WcE%22%2C%22version%22%3A3%2C%22domain%22%3A%22127.0.0.1%22%2C%22ts%22%3A1697204340718%7D'), ('session', '.eJwlzktqQzEMheG9eNyBJcuSnc1cZD1IKLRwbzIq3XtcOjw_HPh-ypFnXPdye56v-CjHw8utTHUd0itlRaodBTzMMGa2OpQwBWYsTq2N2Ufn5n2ZB9Z0IdRGYTpqDyRTH7PVpDqS9216p260yHCC5WCuu7bQHMbgU8UJyoa8rjj_NbynXWcez-_P-NphQRcJGgKKuDoCmDGR8xRPXfIHJuBRft_LEz5q.ZSly8w.YtCjEO40BMzGbq3EOH4SksgA7aU')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
