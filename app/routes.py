@@ -213,3 +213,12 @@ def cep():
     """
 
     return html_content
+
+
+@app.route('/pagamento', methods=['GET', 'POST'])
+def pagamento():
+    metodo_pagamento = None
+    if request.method == 'POST':
+        metodo_pagamento = request.form['metodo_pagamento']
+    return render_template('pagamento.html', metodo_pagamento=metodo_pagamento)
+

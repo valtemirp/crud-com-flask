@@ -5110,3 +5110,79 @@
     Country: Unknown
     -------------------------------------------
     
+    2023-10-16 09:53:54
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-16 09:57:06
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46
+    Host: 127.0.0.1:5000
+    Referer: None
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-16 09:57:13
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('session', 'eyJlZGl0aW5nX2lkIjoiMjAifQ.ZS0zKQ._nY-Ah0-OjXxAal-yq1oxBWozrw')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
+    2023-10-16 09:57:16
+    User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46
+    Host: 127.0.0.1:5000
+    Referer: http://127.0.0.1:5000/
+    Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+    Full URL: http://127.0.0.1:5000/
+    Base URL: http://127.0.0.1:5000/
+    Query Parameters: ImmutableMultiDict([])
+    Request Method: GET
+    Remote Address (IP): 127.0.0.1
+    Form Data: ImmutableMultiDict([])
+    Cookies: ImmutableMultiDict([('session', 'eyJfZmxhc2hlcyI6W3siIHQiOlsic3VjY2VzcyIsIkxpdnJvIGVkaXRhZG8gY29tIHN1Y2Vzc28hIl19XX0.ZS0zLA.sf-7xS05qemCuUwvSVywFRN81vs')])
+    -------------------------------------------
+    
+    City: Unknown
+    Region: Unknown
+    Country: Unknown
+    -------------------------------------------
+    
